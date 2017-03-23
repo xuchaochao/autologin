@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">快速安装</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">网仓快速安装点击这里</string>
+    <string name="description">开启辅助服务，最好是让快速安装保留后台。然后点击返回键回到App中进入自动安装步奏。</string>
+
+</resources>
